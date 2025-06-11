@@ -1,0 +1,10 @@
+.navbarNavDropdown{
+
+   height: 400px;
+
+}
+
+.navbar-collapse .navbar-nav .nav-item{
+
+   color: red;
+}
