@@ -8,3 +8,13 @@
 
    color: red;
 }
+
+.x{
+
+   color: black;
+}
+
+.x:hover{
+
+   color: blue;
+}
